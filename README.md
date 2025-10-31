@@ -6,15 +6,15 @@ Proyek ini dibuat untuk memenuhi **Tugas Minggu 07** dengan penerapan **state ma
 ---
 
 ## Tampilan Aplikasi
-![Tampilan](image/todolistappgif.gif)
+![Tampilan](image/todolistapp.mp4)
 
 ---
 
 ## Fitur Utama
-✅ Tambah kegiatan baru melalui input teks  
-✅ Data langsung muncul di daftar setelah tombol tambah ditekan (data binding aktif)  
-✅ Tandai kegiatan sebagai selesai atau belum selesai  
-✅ Hapus kegiatan dari daftar   
+✅ Tambah kegiatan baru melalui input teks
+✅ Data langsung muncul di daftar setelah tombol tambah ditekan (data binding aktif)
+✅ Tandai kegiatan sebagai selesai atau belum selesai
+✅ Hapus kegiatan dari daftar
 
 ---
 
