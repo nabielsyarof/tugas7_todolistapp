@@ -6,7 +6,7 @@ Proyek ini dibuat untuk memenuhi **Tugas Minggu 07** dengan penerapan **state ma
 ---
 
 ## Tampilan Aplikasi
-![Tampilan](image/todolistapp.mp4)
+![Tampilan](image/todolistapp7.gif)
 
 ---
 
